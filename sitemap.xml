@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://stahe.github.io/de-java-sept-1998/index.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <lastmod>2026-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://stahe.github.io/de-java-sept-1998/----ausfuhrungsthreads.html</loc>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
          <loc>https://stahe.github.io/de-java-sept-1998/----klassen-und-schnittstellen.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://stahe.github.io/de-java-sept-1998/----threads-.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <loc>https://stahe.github.io/de-java-sept-1998/datenbankverwaltung-mit-api-jdbc.html</loc>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://stahe.github.io/de-java-sept-1998/-die-grundlagen-der-java-sprache.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <loc>https://stahe.github.io/de-java-sept-1998/einleitung.html</loc>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://stahe.github.io/de-java-sept-1998/datenbankverwaltung-mit-der-jdbc-api.html</loc>
-         <lastmod>2026-05-24</lastmod>
-    </url>
-    <url>
-         <loc>https://stahe.github.io/de-java-sept-1998/einfuhrung.html</loc>
-         <lastmod>2026-05-24</lastmod>
-    </url>
-    <url>
-         <loc>https://stahe.github.io/de-java-sept-1998/erstellen-verteilter-corba-anwendungen.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <loc>https://stahe.github.io/de-java-sept-1998/entwicklung-verteilter-anwendungen-corba.html</loc>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
          <loc>https://stahe.github.io/de-java-sept-1998/grafische-benutzeroberflachen.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://stahe.github.io/de-java-sept-1998/haufig-verwendete-klassen-in-java-.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <loc>https://stahe.github.io/de-java-sept-1998/grundlagen-der-programmiersprache-java.html</loc>
+         <lastmod>2026-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://stahe.github.io/de-java-sept-1998/haufig-verwendete-klassen.html</loc>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
          <loc>https://stahe.github.io/de-java-sept-1998/java-rmi.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://stahe.github.io/de-java-sept-1998/tcp-ip-programmierung.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <loc>https://stahe.github.io/de-java-sept-1998/programmierung-tcp-ip.html</loc>
+         <lastmod>2026-06-18</lastmod>
     </url>
 </urlset>
